@@ -1,5 +1,4 @@
-# Repositorio do desafio de projeto sobre Git/Github da DIO
-Desafio Projeto sobre Git/GitHub
+# Repositorio do desafio de projeto DIO
+## Passo a passo da criação de um projeto GitHub
 
-## Link necessario para a instalação o Git
-https://git-scm.com/download/win
+Primeiro passo se faz necessario um cadastro ao site https://github.com/
