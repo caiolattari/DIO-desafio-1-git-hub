@@ -1,4 +1,7 @@
 # Repositorio do desafio de projeto DIO
 ## Passo a passo da criação de um projeto GitHub
 
-Primeiro passo se faz necessario um cadastro ao site https://github.com/
+### Crie uma conta no Git Hub
+[Cadastro GitHub](https://github.com/)
+
+Logo após a criação vá na opção new no canto superior da tela
