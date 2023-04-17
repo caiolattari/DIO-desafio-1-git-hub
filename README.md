@@ -4,4 +4,4 @@
 ### Crie uma conta no Git Hub
 [Cadastro GitHub](https://github.com/)
 
-Logo após a criação vá na opção new no canto superior da tela
+Logo após a criação vá na opção  no canto superior da tela
